@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Remote Color config</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="mainActivity_getColorFromServer">Get Color From Server</string>
+</resources>
